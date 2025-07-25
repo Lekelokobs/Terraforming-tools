@@ -2,7 +2,7 @@
 	{
 		"name": "Plant Forest",
 		"terrainsCanBeBuiltOn": ["Grassland","Hill","Plains","Tundra","Desert","Snow"],
-		"requiredImprovedResources": ["Marble","Stone","Obsidian"],
+		"requiredNearbyImprovedResources": ["Marble","Stone","Obsidian"],
 		"turnsToBuild": 7,
 		"techRequired": "Fertilizer",
 		"uniques": [
