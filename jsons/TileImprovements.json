@@ -32,7 +32,7 @@
 		"name": "Desertify",
 		"terrainsCanBeBuiltOn": ["Grassland","Hill","Plains","Tundra","Snow"],
 		"turnsToBuild": 7,
-		"techRequired": "Fertilizer",
+		"techRequired": "Combustion",
 		"uniques": [
 			"Can be built outside your borders",
 			"Turn this tile into a [Desert] tile",
